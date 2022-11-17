@@ -30,6 +30,3 @@ const removeChildrenExceptOne = (element, childClassName) => {
     }
   });
 }
-
-
-setUI();
